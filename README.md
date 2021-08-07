@@ -22,12 +22,13 @@ This dataset is composed by the following five features:
 # Conclusions For This Project
 After developing a solution for this problem, we have come to the following conclusions:
 
-    KMeans Clustering is a powerful technique in order to achieve a decent customer segmentation.
-    Customer segmentation is a good way to understand the behaviour of different customers and plan a good marketing strategy accordingly.
-    There isn't much difference between the spending score of women and men, which leads us to think, that our behaviour is pretty similarwhen it comes to shopping.
-    Observing the clustering graphic, it can be clearly observed that the ones who spend more money in malls are young people. That is to say they are the main target when it          comes to marketing, so doing deeper studies about what they are interested, may give more profits.
-    Althought young people seem to be the one who are spending more.
-    Promoting discounts on some shops can be something of interest to those who don't actually spend a lot and they may end up spending more.
+KMeans Clustering is a powerful technique in order to achieve a decent customer segmentation.
+Customer segmentation is a good way to understand the behaviour of different customers and plan a good marketing strategy accordingly.
+There isn't much difference between the spending score of women and men, which leads us to think, that our behaviour is pretty similarwhen it comes to shopping.
+Observing the clustering graphic, it can be clearly observed that the ones who spend more money in malls are young people.
+That is to say they are the main target when it comes to marketing, so doing deeper studies about what they are interested, may give more profits.
+Althought young people seem to be the one who are spending more.
+Promoting discounts on some shops can be something of interest to those who don't actually spend a lot and they may end up spending more.
   
 
 
